@@ -4,7 +4,7 @@ Sou um jovem desenvolvedor que ama a tecnologia e a aprender coisas nova. Sempre
 
 Hoje trabalho como desenvolvedor web com Laravel no backend e Angular no frontend!
 
-<br />
+<hr>
 
 <!--
 **gianlucaferreira/gianlucaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
