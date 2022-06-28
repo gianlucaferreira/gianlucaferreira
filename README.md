@@ -5,6 +5,11 @@ Sou um jovem desenvolvedor que ama a tecnologia e aprender coisas nova. Sempre g
 Hoje trabalho como desenvolvedor web com Laravel no backend e Angular no frontend!
 
 <hr>
+[![Twitter Gianluca_cf](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Gianluca_cf)](https://twitter.com/Gianluca_cf)
+
+[![Linkedin: gianluca-de-campos-ferreira-218920178](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gianluca-de-campos-ferreira-218920178/)](https://www.linkedin.com/in/gianluca-de-campos-ferreira-218920178/)
+
+[![Instagram: gian_cf](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gian_cf/)
 
 ### Techs
 
