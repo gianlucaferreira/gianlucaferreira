@@ -1,6 +1,6 @@
 ## Olá, eu sou Gianluca! 👋
 
-<div style="display: inline_block">
+<div style="display: flex">
   
 [![Twitter: Gianluca_cf](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Gianluca_cf)](https://twitter.com/Gianluca_cf)
 
