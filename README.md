@@ -9,7 +9,7 @@
 [![Instagram: gian_cf](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gian_cf/)
 </div>
   
-Sou um jovem desenvolvedor que ama a tecnologia e aprender coisas nova. Sempre gostei de tecnologia, e sempre quis saber como as coisas funcionam por tras dos pano, assim descobri a programação.
+Sou um jovem desenvolvedor que ama a tecnologia e aprender coisas novas. Sempre gostei de tecnologia, e sempre quis saber como as coisas funcionam por tras dos pano, assim descobri a programação.
 
 Hoje trabalho como desenvolvedor web com Laravel no backend e Angular no frontend!
 
