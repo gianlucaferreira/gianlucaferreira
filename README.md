@@ -9,7 +9,7 @@
   
 Sou um jovem desenvolvedor que ama a tecnologia e aprender coisas novas. Sempre gostei de tecnologia, e sempre quis saber como as coisas funcionam por tras dos pano, assim descobri a programação.
 
-Hoje trabalho como desenvolvedor web com Laravel no backend e Angular no frontend!
+Hoje trabalho como desenvolvedor de software com Laravel no backend e Angular no frontend!
 
 <hr>
 
